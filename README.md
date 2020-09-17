@@ -18,7 +18,7 @@ I'm Fuzail Ahmed, a Full-Stack Software Developer @ <a href="https://www.seagate
   - Shell Scripts
   - ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I forget everything when I start to learn new thing.
+- ⚡ Fun fact: I have two friends.. they are twins.. but they don't look alike.
 - 🌐 Languages
   - English
   - Hindi
