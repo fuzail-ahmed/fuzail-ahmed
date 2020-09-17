@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hey Fuzail here! :wave:
 
-<!--
-**fuzail-ahmed/fuzail-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Fuzail Ahmed, a Full-Stack Software Developer @ <a href="https://www.seagate.com/">Seagate Technology</a> from India
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 My Skills
+  - HTML
+  - CSS (SCSS)
+  - Javascript
+  - Node.js
+  - PHP
+  - MySQL
+  - GoLang
+  - Typescript
+  - React
+  - Swift
+  - Mobile Development
+  - Web Developement
+  - Dev Ops
+  - Shell Scripts
+  - ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I forget everything when I start to learn new thing.
+- 🌐 Languages
+  - English
+  - Hindi
+  - Marathi
+  - Urdu
+- 📫 How to reach me: 
+  - Email: fuzail1280@gmail.com
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - GoLang
+    - Gitlab CI
+    - Kubernetes
+    - Hashicorp Vault
