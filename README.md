@@ -1,4 +1,4 @@
-# Hey Fuzail here! :wave:
+## Hey Fuzail here! :wave:
 I'm Fuzail Ahmed, a Full-Stack Software Developer @ <a href="https://www.seagate.com/">Seagate Technology</a> from India
 
 - 🔭 My Skills
